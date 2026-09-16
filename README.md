@@ -12,6 +12,11 @@
 - see https://youtu.be/F2bhxTAfQ1c?si=WHePMHqEvZOFKV77 | Test: Title Card Experiment / Scene Texture Concepts
 - see https://github.com/caave24/title-card-ideas | Concepts for Title Cards
 - see https://github.com/caave24/textures | Free to use Textures
+- see https://github.com/caave24/topics | Topics & interesting concepts
+- see https://github.com/caave24/nocopy-radio | Free for commercial use, sfx & music
+- see https://github.com/caave24/ghosf + https://github.com/caave24/framg | Video effects
+
+- 
 ---
 <!--
 **caave24/caave24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
