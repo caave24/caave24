@@ -1,5 +1,6 @@
 🌱 All the repos I have will tie to the goal of me creating videos that show me learning, researching and explaining things that I know & care about.
 🌱 I'm looking to be informative while being more visually stimulating than a slide deck.
+🌱 Other repos will be related experiments, like FFMPEG to create video effects or developing in the open on workflow tools to develop marketing/branding.
 
 --- 
 # Repo Guide:
