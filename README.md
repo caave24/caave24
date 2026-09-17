@@ -3,7 +3,6 @@
 🌱 Other repos will be related experiments, like FFmpeg to create video effects or developing in the open on workflow tools.
 🌱 Building publicly so others can learn, iterate, remix, & make it their own.
 
-
 ---
 ```
 Videos/
