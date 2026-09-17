@@ -23,9 +23,8 @@ Videos/
 ├─ https://youtu.be/F2bhxTAfQ1c?si=WHePMHqEvZOFKV77 | Test001
 ```
 
-
 --- 
-# :
+# 
 - see https://github.com/caave24/howto | How to do what I'm doing
 - see https://github.com/caave24/styleguide | Developing a style guide in real time
 - see https://github.com/caave24/scenetemplates | Developing re-usable scene templates
