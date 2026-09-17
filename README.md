@@ -13,7 +13,7 @@ Videos/
 │  ├─ https://github.com/caave24/textures | Free to use Textures
 │  ├─ https://github.com/caave24/blockbench-assets | Developing re-usable assets
 │  ├─ https://github.com/caave24/title-card-ideas | Concepts for Title Cards
-│  ├─ https://caave24.github.io/desktop/ | Win98 'Desktop'
+│  ├─ https://github.com/caave24/desktop | 98.css+HTML Themed 'Desktop'
 ├─ Audio/
 │  ├─ https://github.com/caave24/nocopy-radio | Free for commercial use, sfx & music
 ├─ Story/
@@ -25,9 +25,10 @@ Videos/
 
 --- 
 
+# Assets
 - see https://caave24.github.io/playgrnd-stock | Developing Stock Texture/BG/Video Assets
 - see https://caave24.github.io/desktop/ | Win98 'Desktop' for Video
-- see https://caave24.github.io/blockbench-assets/ | Gifs Assets of Objects/Shapes
+- see https://caave24.github.io/blockbench-assets/ | 3d Objects/Shapes GIFS
 - see https://www.photopea.com | Image Editor ⚡
 
 
