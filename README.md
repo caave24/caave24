@@ -37,6 +37,7 @@ Videos/
 - see https://github.com/caave24/nocopy-radio | Free for commercial use, sfx & music
 - see https://github.com/caave24/ghosf | Video effects
 - see https://github.com/caave24/framg | Video effects
+- see https://caave24.github.io/desktop/ | Win98 'Desktop' for Video
 
 
 
