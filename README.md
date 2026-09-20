@@ -25,12 +25,12 @@ Videos/
 --- 
 
 ## Assets
-- see https://caave24.github.io/playgrnd-stock | Developing Stock Texture/BG/Video Assets
-- see https://caave24.github.io/desktop/ | Win98 'Desktop' for Video
-- see https://caave24.github.io/blockbench-assets/ | 3d Objects/Shapes Examples, Download Video from Repo
+- see https://caave24.github.io/playgrnd-stock | Free Stock Video/Image Assets
+- see https://caave24.github.io/desktop/ | 'Desktop' for Video 🖥️
+- see https://caave24.github.io/blockbench-assets/ | Free 3d Assets
 - ~~see https://www.photopea.com | Image Editor ⚡~~
-- see https://krita.org | Free Image Editor ⚡
-
+- see https://krita.org | Free Image Editor 🖼️
+- see https://destockd.com | Stock Footage 🎞️
 
 
 
